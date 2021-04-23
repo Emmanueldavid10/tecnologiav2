@@ -52,7 +52,7 @@ body{
 	position: absolute;
 	top: 0px;
 	left: 1px;
-	width: 1305px;
+	width: 1295px;
 	height: 25px;
 	background: red;
 	animation-name: marcopolo;
@@ -63,7 +63,7 @@ body{
 .marco4{
 	position: absolute;
 	top: 0px;
-	left: 1305px;
+	left: 1295px;
 	width: 50px;
 	height: 1200px;
 	background: red;
