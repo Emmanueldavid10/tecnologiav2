@@ -36,3 +36,39 @@ body{
 	z-index: 2;
 	border-radius: 300px;
 }
+.marco2{
+	position: absolute;
+	top: 0px;
+	left: 1px;
+	width: 50px;
+	height: 1200px;
+	background: red;
+	animation-name: marcopolo;
+	animation-duration: 4s; 
+	animation-iteration-count: infinite;
+	z-index: 1; 
+}
+.marco3{
+	position: absolute;
+	top: 0px;
+	left: 1px;
+	width: 1305px;
+	height: 25px;
+	background: red;
+	animation-name: marcopolo;
+	animation-duration: 4s; 
+	animation-iteration-count: infinite;
+	z-index: 1; 
+}
+.marco4{
+	position: absolute;
+	top: 0px;
+	left: 1305px;
+	width: 50px;
+	height: 1200px;
+	background: red;
+	animation-name: marcopolo;
+	animation-duration: 4s; 
+	animation-iteration-count: infinite;
+	z-index: 1; 
+}
